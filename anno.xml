@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>3968651</id>
+      <size>9</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-05-10 21:23:33.973293+00:00</created>
+      <updated>2026-05-10 21:40:58.079927+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>8</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3966931</id>
+          <start>0</start>
+          <stop>8</stop>
+          <url>https://app.cvat.ai/api/jobs/3968651/dataset/export/api/jobs/3968651</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>plutonmax</username>
+        <email>plutonmax@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>satellite</name>
+          <color>#8970a7</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>solarpanel</name>
+          <color>#2b4235</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-05-10 21:41:28.735061+00:00</dumped>
+  </meta>
+  <image id="0" name="1001.png" width="1536" height="1536">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="1" name="1002.png" width="800" height="800">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.97,471.40;408.93,489.49;450.67,671.76;408.93,650.89" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="346.32,332.27;376.93,355.92;347.71,173.65;317.10,150.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="2" name="1003.png" width="480" height="270">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.97,471.40;408.93,489.49;450.67,671.76;408.93,650.89" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="346.32,332.27;376.93,355.92;347.71,173.65;317.10,150.00" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="349.12,91.50;361.32,107.93;378.70,97.13;387.62,91.97;399.88,102.77;404.06,97.13;406.45,99.01;412.51,90.56;410.16,85.39;414.86,74.59;401.71,66.14;397.48,77.41;388.09,65.20;379.17,62.38;385.74,51.58;370.72,41.72;359.45,68.49;364.61,72.25;362.73,75.53;348.18,81.17" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="389.03,95.73;401.24,66.14;415.80,73.19;409.74,85.39;412.04,89.15;407.34,99.01;403.16,96.66;398.89,101.83" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.91,41.79;385.06,50.28;379.00,62.10;365.97,72.41;360.20,69.07" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="83.44,150.01;119.90,185.84;190.94,219.79;231.17,117.32;214.82,109.15;215.45,99.09;207.28,94.06;212.94,84.63;198.48,68.92;167.68,68.92;149.45,51.94" z_order="0">
+    </polygon>
+  </image>
+  <image id="3" name="1004.png" width="810" height="810">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.97,471.40;408.93,489.49;450.67,671.76;408.93,650.89" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="346.32,332.27;376.93,355.92;347.71,173.65;317.10,150.00" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="349.12,91.50;361.32,107.93;378.70,97.13;387.62,91.97;399.88,102.77;404.06,97.13;406.45,99.01;412.51,90.56;410.16,85.39;414.86,74.59;401.71,66.14;397.48,77.41;388.09,65.20;379.17,62.38;385.74,51.58;370.72,41.72;359.45,68.49;364.61,72.25;362.73,75.53;348.18,81.17" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="389.03,95.73;401.24,66.14;415.80,73.19;409.74,85.39;412.04,89.15;407.34,99.01;403.16,96.66;398.89,101.83" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.91,41.79;385.06,50.28;379.00,62.10;365.97,72.41;360.20,69.07" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="83.44,150.01;119.90,185.84;190.94,219.79;231.17,117.32;214.82,109.15;215.45,99.09;207.28,94.06;212.94,84.63;198.48,68.92;167.68,68.92;149.45,51.94" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="477.64,644.44;541.04,688.11;625.56,535.96;659.37,531.74;677.69,502.15;655.15,488.07;731.22,335.92;673.46,295.07;594.57,442.99;559.35,455.66;550.90,507.79" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="480.46,642.33;542.44,687.41;618.52,554.98;548.08,509.90" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="600.20,425.38;663.60,473.27;732.63,332.40;673.46,292.95" z_order="0">
+    </polygon>
+  </image>
+  <image id="4" name="1005.png" width="800" height="678">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.97,471.40;408.93,489.49;450.67,671.76;408.93,650.89" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="346.32,332.27;376.93,355.92;347.71,173.65;317.10,150.00" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="349.12,91.50;361.32,107.93;378.70,97.13;387.62,91.97;399.88,102.77;404.06,97.13;406.45,99.01;412.51,90.56;410.16,85.39;414.86,74.59;401.71,66.14;397.48,77.41;388.09,65.20;379.17,62.38;385.74,51.58;370.72,41.72;359.45,68.49;364.61,72.25;362.73,75.53;348.18,81.17" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="389.03,95.73;401.24,66.14;415.80,73.19;409.74,85.39;412.04,89.15;407.34,99.01;403.16,96.66;398.89,101.83" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.91,41.79;385.06,50.28;379.00,62.10;365.97,72.41;360.20,69.07" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="83.44,150.01;119.90,185.84;190.94,219.79;231.17,117.32;214.82,109.15;215.45,99.09;207.28,94.06;212.94,84.63;198.48,68.92;167.68,68.92;149.45,51.94" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="477.64,644.44;541.04,688.11;625.56,535.96;659.37,531.74;677.69,502.15;655.15,488.07;731.22,335.92;673.46,295.07;594.57,442.99;559.35,455.66;550.90,507.79" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="480.46,642.33;542.44,687.41;618.52,554.98;548.08,509.90" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="600.20,425.38;663.60,473.27;732.63,332.40;673.46,292.95" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="110.02,505.93;348.39,378.07;285.25,261.25;53.19,392.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="515.72,283.35;752.51,157.06;690.95,40.25;457.31,166.53" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="407.50,246.58;465.95,217.36;465.95,264.85;412.98,286.77" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="111.61,511.43;347.22,379.92;356.36,330.60;391.06,365.31;465.95,319.64;467.77,266.68;513.43,288.59;754.53,153.43;690.60,42.02;454.99,169.87;418.46,142.47;367.32,122.38;319.83,166.22;316.17,211.88;328.96,279.46;288.78,257.54;58.64,394.53" z_order="0">
+    </polygon>
+  </image>
+  <image id="5" name="1006.png" width="800" height="750">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.97,471.40;408.93,489.49;450.67,671.76;408.93,650.89" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="346.32,332.27;376.93,355.92;347.71,173.65;317.10,150.00" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="349.12,91.50;361.32,107.93;378.70,97.13;387.62,91.97;399.88,102.77;404.06,97.13;406.45,99.01;412.51,90.56;410.16,85.39;414.86,74.59;401.71,66.14;397.48,77.41;388.09,65.20;379.17,62.38;385.74,51.58;370.72,41.72;359.45,68.49;364.61,72.25;362.73,75.53;348.18,81.17" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="389.03,95.73;401.24,66.14;415.80,73.19;409.74,85.39;412.04,89.15;407.34,99.01;403.16,96.66;398.89,101.83" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.91,41.79;385.06,50.28;379.00,62.10;365.97,72.41;360.20,69.07" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="83.44,150.01;119.90,185.84;190.94,219.79;231.17,117.32;214.82,109.15;215.45,99.09;207.28,94.06;212.94,84.63;198.48,68.92;167.68,68.92;149.45,51.94" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="477.64,644.44;541.04,688.11;625.56,535.96;659.37,531.74;677.69,502.15;655.15,488.07;731.22,335.92;673.46,295.07;594.57,442.99;559.35,455.66;550.90,507.79" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="480.46,642.33;542.44,687.41;618.52,554.98;548.08,509.90" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="600.20,425.38;663.60,473.27;732.63,332.40;673.46,292.95" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="110.02,505.93;348.39,378.07;285.25,261.25;53.19,392.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="515.72,283.35;752.51,157.06;690.95,40.25;457.31,166.53" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="407.50,246.58;465.95,217.36;465.95,264.85;412.98,286.77" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="111.61,511.43;347.22,379.92;356.36,330.60;391.06,365.31;465.95,319.64;467.77,266.68;513.43,288.59;754.53,153.43;690.60,42.02;454.99,169.87;418.46,142.47;367.32,122.38;319.83,166.22;316.17,211.88;328.96,279.46;288.78,257.54;58.64,394.53" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="375.89,458.14;421.17,418.90;549.45,424.94;525.31,160.82;386.45,139.69;395.51,248.36;244.59,331.37;268.73,405.32;344.20,420.41" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="413.62,417.39;550.96,423.43;540.40,326.84;403.06,316.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="386.45,138.18;525.31,159.31;537.38,260.43;477.01,206.10;431.73,213.65;392.49,209.12" z_order="0">
+    </polygon>
+  </image>
+  <image id="6" name="1007.png" width="948" height="530">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.97,471.40;408.93,489.49;450.67,671.76;408.93,650.89" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="346.32,332.27;376.93,355.92;347.71,173.65;317.10,150.00" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="349.12,91.50;361.32,107.93;378.70,97.13;387.62,91.97;399.88,102.77;404.06,97.13;406.45,99.01;412.51,90.56;410.16,85.39;414.86,74.59;401.71,66.14;397.48,77.41;388.09,65.20;379.17,62.38;385.74,51.58;370.72,41.72;359.45,68.49;364.61,72.25;362.73,75.53;348.18,81.17" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="389.03,95.73;401.24,66.14;415.80,73.19;409.74,85.39;412.04,89.15;407.34,99.01;403.16,96.66;398.89,101.83" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.91,41.79;385.06,50.28;379.00,62.10;365.97,72.41;360.20,69.07" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="83.44,150.01;119.90,185.84;190.94,219.79;231.17,117.32;214.82,109.15;215.45,99.09;207.28,94.06;212.94,84.63;198.48,68.92;167.68,68.92;149.45,51.94" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="477.64,644.44;541.04,688.11;625.56,535.96;659.37,531.74;677.69,502.15;655.15,488.07;731.22,335.92;673.46,295.07;594.57,442.99;559.35,455.66;550.90,507.79" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="480.46,642.33;542.44,687.41;618.52,554.98;548.08,509.90" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="600.20,425.38;663.60,473.27;732.63,332.40;673.46,292.95" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="110.02,505.93;348.39,378.07;285.25,261.25;53.19,392.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="515.72,283.35;752.51,157.06;690.95,40.25;457.31,166.53" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="407.50,246.58;465.95,217.36;465.95,264.85;412.98,286.77" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="111.61,511.43;347.22,379.92;356.36,330.60;391.06,365.31;465.95,319.64;467.77,266.68;513.43,288.59;754.53,153.43;690.60,42.02;454.99,169.87;418.46,142.47;367.32,122.38;319.83,166.22;316.17,211.88;328.96,279.46;288.78,257.54;58.64,394.53" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="375.89,458.14;421.17,418.90;549.45,424.94;525.31,160.82;386.45,139.69;395.51,248.36;244.59,331.37;268.73,405.32;344.20,420.41" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="413.62,417.39;550.96,423.43;540.40,326.84;403.06,316.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="386.45,138.18;525.31,159.31;537.38,260.43;477.01,206.10;431.73,213.65;392.49,209.12" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="116.84,356.27;369.61,306.15;386.67,273.08;137.10,322.14" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="555.18,267.75;827.15,213.36;832.48,178.16;562.65,236.82" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="436.80,269.88;436.80,281.62;464.53,295.48;500.79,284.82;500.79,264.55;474.13,259.22;471.99,235.76;463.46,234.69;451.73,234.69;449.60,254.95;437.86,257.09" z_order="0">
+    </polygon>
+  </image>
+  <image id="7" name="1008.png" width="1914" height="1077">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.97,471.40;408.93,489.49;450.67,671.76;408.93,650.89" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="346.32,332.27;376.93,355.92;347.71,173.65;317.10,150.00" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="349.12,91.50;361.32,107.93;378.70,97.13;387.62,91.97;399.88,102.77;404.06,97.13;406.45,99.01;412.51,90.56;410.16,85.39;414.86,74.59;401.71,66.14;397.48,77.41;388.09,65.20;379.17,62.38;385.74,51.58;370.72,41.72;359.45,68.49;364.61,72.25;362.73,75.53;348.18,81.17" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="389.03,95.73;401.24,66.14;415.80,73.19;409.74,85.39;412.04,89.15;407.34,99.01;403.16,96.66;398.89,101.83" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.91,41.79;385.06,50.28;379.00,62.10;365.97,72.41;360.20,69.07" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="83.44,150.01;119.90,185.84;190.94,219.79;231.17,117.32;214.82,109.15;215.45,99.09;207.28,94.06;212.94,84.63;198.48,68.92;167.68,68.92;149.45,51.94" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="477.64,644.44;541.04,688.11;625.56,535.96;659.37,531.74;677.69,502.15;655.15,488.07;731.22,335.92;673.46,295.07;594.57,442.99;559.35,455.66;550.90,507.79" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="480.46,642.33;542.44,687.41;618.52,554.98;548.08,509.90" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="600.20,425.38;663.60,473.27;732.63,332.40;673.46,292.95" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="110.02,505.93;348.39,378.07;285.25,261.25;53.19,392.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="515.72,283.35;752.51,157.06;690.95,40.25;457.31,166.53" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="407.50,246.58;465.95,217.36;465.95,264.85;412.98,286.77" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="111.61,511.43;347.22,379.92;356.36,330.60;391.06,365.31;465.95,319.64;467.77,266.68;513.43,288.59;754.53,153.43;690.60,42.02;454.99,169.87;418.46,142.47;367.32,122.38;319.83,166.22;316.17,211.88;328.96,279.46;288.78,257.54;58.64,394.53" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="375.89,458.14;421.17,418.90;549.45,424.94;525.31,160.82;386.45,139.69;395.51,248.36;244.59,331.37;268.73,405.32;344.20,420.41" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="413.62,417.39;550.96,423.43;540.40,326.84;403.06,316.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="386.45,138.18;525.31,159.31;537.38,260.43;477.01,206.10;431.73,213.65;392.49,209.12" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="116.84,356.27;369.61,306.15;386.67,273.08;137.10,322.14" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="555.18,267.75;827.15,213.36;832.48,178.16;562.65,236.82" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="436.80,269.88;436.80,281.62;464.53,295.48;500.79,284.82;500.79,264.55;474.13,259.22;471.99,235.76;463.46,234.69;451.73,234.69;449.60,254.95;437.86,257.09" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="510.62,638.27;532.30,798.65;621.15,887.51;931.07,763.98;952.75,818.16;837.88,894.01;902.90,1043.56;1158.64,876.68;1093.62,733.63;978.75,805.16;959.25,748.81;950.58,714.13;965.75,698.96;1006.93,748.81;1024.27,675.12;1063.28,677.29;1084.95,649.11;1490.23,447.55;1514.07,378.20;1477.23,308.85;1412.21,269.84;881.23,501.74;837.88,495.23;814.04,432.38;920.24,352.19;863.89,219.99;627.66,378.20;679.67,510.41;785.87,443.22;814.04,506.07" z_order="0">
+    </polygon>
+  </image>
+  <image id="8" name="1009.png" width="1080" height="743">
+    <polyline label="satellite" source="manual" occluded="0" points="788.04,1098.02;738.69,1104.19;670.84,1082.60;569.06,968.48;501.20,829.68;458.02,650.79;473.44,505.83;544.38,465.73;609.20,490.40;686.30,459.60;781.87,512.00;1118.10,727.90;973.10,798.84;923.75,774.16;843.56,801.92;837.39,949.97;794.21,1094.94" z_order="0">
+    </polyline>
+    <polygon label="solarpanel" source="manual" occluded="0" points="973.76,799.95;1119.43,732.10;682.42,458.72;602.59,498.63;736.29,598.40;808.13,690.20" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.97,471.40;408.93,489.49;450.67,671.76;408.93,650.89" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="346.32,332.27;376.93,355.92;347.71,173.65;317.10,150.00" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="349.12,91.50;361.32,107.93;378.70,97.13;387.62,91.97;399.88,102.77;404.06,97.13;406.45,99.01;412.51,90.56;410.16,85.39;414.86,74.59;401.71,66.14;397.48,77.41;388.09,65.20;379.17,62.38;385.74,51.58;370.72,41.72;359.45,68.49;364.61,72.25;362.73,75.53;348.18,81.17" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="389.03,95.73;401.24,66.14;415.80,73.19;409.74,85.39;412.04,89.15;407.34,99.01;403.16,96.66;398.89,101.83" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="369.91,41.79;385.06,50.28;379.00,62.10;365.97,72.41;360.20,69.07" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="83.44,150.01;119.90,185.84;190.94,219.79;231.17,117.32;214.82,109.15;215.45,99.09;207.28,94.06;212.94,84.63;198.48,68.92;167.68,68.92;149.45,51.94" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="477.64,644.44;541.04,688.11;625.56,535.96;659.37,531.74;677.69,502.15;655.15,488.07;731.22,335.92;673.46,295.07;594.57,442.99;559.35,455.66;550.90,507.79" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="480.46,642.33;542.44,687.41;618.52,554.98;548.08,509.90" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="600.20,425.38;663.60,473.27;732.63,332.40;673.46,292.95" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="110.02,505.93;348.39,378.07;285.25,261.25;53.19,392.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="515.72,283.35;752.51,157.06;690.95,40.25;457.31,166.53" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="407.50,246.58;465.95,217.36;465.95,264.85;412.98,286.77" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="111.61,511.43;347.22,379.92;356.36,330.60;391.06,365.31;465.95,319.64;467.77,266.68;513.43,288.59;754.53,153.43;690.60,42.02;454.99,169.87;418.46,142.47;367.32,122.38;319.83,166.22;316.17,211.88;328.96,279.46;288.78,257.54;58.64,394.53" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="375.89,458.14;421.17,418.90;549.45,424.94;525.31,160.82;386.45,139.69;395.51,248.36;244.59,331.37;268.73,405.32;344.20,420.41" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="413.62,417.39;550.96,423.43;540.40,326.84;403.06,316.27" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="386.45,138.18;525.31,159.31;537.38,260.43;477.01,206.10;431.73,213.65;392.49,209.12" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="116.84,356.27;369.61,306.15;386.67,273.08;137.10,322.14" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="555.18,267.75;827.15,213.36;832.48,178.16;562.65,236.82" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="436.80,269.88;436.80,281.62;464.53,295.48;500.79,284.82;500.79,264.55;474.13,259.22;471.99,235.76;463.46,234.69;451.73,234.69;449.60,254.95;437.86,257.09" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="510.62,638.27;532.30,798.65;621.15,887.51;931.07,763.98;952.75,818.16;837.88,894.01;902.90,1043.56;1158.64,876.68;1093.62,733.63;978.75,805.16;959.25,748.81;950.58,714.13;965.75,698.96;1006.93,748.81;1024.27,675.12;1063.28,677.29;1084.95,649.11;1490.23,447.55;1514.07,378.20;1477.23,308.85;1412.21,269.84;881.23,501.74;837.88,495.23;814.04,432.38;920.24,352.19;863.89,219.99;627.66,378.20;679.67,510.41;785.87,443.22;814.04,506.07" z_order="0">
+    </polygon>
+    <polygon label="satellite" source="manual" occluded="0" points="376.72,329.30;403.86,380.99;582.19,488.24;593.82,467.56;619.66,467.56;627.41,455.93;619.66,445.60;627.41,431.38;613.20,395.20;500.78,308.62;668.77,282.77;659.72,231.09;436.16,272.44;415.49,280.19" z_order="0">
+    </polygon>
+    <polygon label="solarpanel" source="manual" occluded="0" points="451.67,316.37;668.77,282.77;655.84,232.38;434.87,271.14" z_order="0">
+    </polygon>
+  </image>
+</annotations>
